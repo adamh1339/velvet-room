@@ -107,7 +107,7 @@ def process_all():
     total = 0
 
     for filename in sorted(os.listdir("data/raw")):
-        if not (filename.endswith("_wiki.json") or filename.endswith("_fusion.json")):
+        if not any(filename.endswith(s) for s in ("_wiki.json", "_fusion.json", "_guide.json", "_static.json", "_linked.json")):
             continue
 
         filepath = f"data/raw/{filename}"

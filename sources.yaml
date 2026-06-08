@@ -1,0 +1,195 @@
+p3:
+  # --- Party members ---
+  - type: wiki
+    title: Protagonist (Persona 3)
+  - type: wiki
+    title: Aigis
+  - type: wiki
+    title: Mitsuru Kirijo
+  - type: wiki
+    title: Yukari Takeba
+  - type: wiki
+    title: Junpei Iori
+  - type: wiki
+    title: Shinjiro Aragaki
+  - type: wiki
+    title: Akihiko Sanada
+  - type: wiki
+    title: Ken Amada
+  - type: wiki
+    title: Koromaru
+  # --- Story / bosses ---
+  - type: wiki
+    title: Nyx Avatar
+  - type: wiki
+    title: Full Moon Operations
+  - type: wiki
+    title: Tartarus
+  - type: wiki
+    title: Monad Depths
+  # --- Mechanics ---
+  - type: wiki
+    title: Shuffle Time
+  - type: wiki
+    title: Social Stats
+  - type: wiki
+    title: Elizabeth's Requests
+  # --- Velvet Room ---
+  - type: wiki
+    title: Elizabeth
+  # --- Game overview ---
+  - type: wiki
+    title: Persona 3 Reload
+  # --- Fusion tool ---
+  - type: fusion
+    base_url: https://aqiu384.github.io/megaten-fusion-tool/p3r
+    max_pages: 200
+  # --- Guide sites ---
+  - type: index
+    url: https://www.rpgsite.net/guide/15436-persona-3-reload-social-link-guide-complete-s-link-walkthrough-unlocks-answers
+    link_from: body
+    filter: rpgsite.net
+  - type: static
+    url: https://www.rpgsite.net/guide/15324-persona-3-reload-elizabeth-requests-guide-solutions-rewards-for-every-quest
+  - type: static
+    url: https://www.rpgsite.net/guide/15319-persona-3-reload-school-answers-exam-test-solutions-list
+  - type: static
+    url: https://www.rpgsite.net/guide/15441-persona-3-reload-social-stats-guide-how-to-increase-courage-charm-academics-fast
+
+p4:
+  # --- Party members ---
+  - type: wiki
+    title: Protagonist (Persona 4)
+  - type: wiki
+    title: Yosuke Hanamura
+  - type: wiki
+    title: Chie Satonaka
+  - type: wiki
+    title: Yukiko Amagi
+  - type: wiki
+    title: Kanji Tatsumi
+  - type: wiki
+    title: Rise Kujikawa
+  - type: wiki
+    title: Naoto Shirogane
+  - type: wiki
+    title: Teddie
+  # --- Story / bosses ---
+  - type: wiki
+    title: Shadow Yukiko
+  - type: wiki
+    title: Shadow Kanji
+  - type: wiki
+    title: Shadow Rise
+  - type: wiki
+    title: Shadow Mitsuo
+  - type: wiki
+    title: Shadow Naoto
+  - type: wiki
+    title: Izanami
+  - type: wiki
+    title: Tohru Adachi
+  - type: wiki
+    title: Marie
+  # --- Mechanics ---
+  - type: wiki
+    title: Skill Card
+  # --- Velvet Room ---
+  - type: wiki
+    title: Margaret
+  # --- Game overview ---
+  - type: wiki
+    title: Persona 4 Golden
+  # --- Fusion tool ---
+  - type: fusion
+    base_url: https://aqiu384.github.io/megaten-fusion-tool/p4g
+    max_pages: 200
+  # --- Guide sites ---
+  - type: static
+    url: https://www.rpgsite.net/feature/9890-persona-4-golden-quests-guide-complete-quest-walkthroughs-and-rewards
+  - type: static
+    url: https://www.rpgsite.net/feature/9824-persona-4-golden-endings-guide-how-to-unlock-the-true-ending-and-secret-dungeon
+  - type: static
+    url: https://www.rpgsite.net/feature/9830-persona-4-golden-adachi-social-link-choices-unlock-guide
+  - type: index
+    url: https://www.rpgsite.net/feature/9850-persona-4-golden-social-link-guide-dialogue-options-love-interests-and-full-s-link-walkthroughs
+    link_from: body
+    filter: rpgsite.net
+  - type: index
+    url: https://www.ign.com/wikis/shin-megami-tensei-persona-4-golden/Fishing
+    link_from: body
+    filter: shin-megami-tensei-persona-4-golden
+
+p5:
+  # --- Party members ---
+  - type: wiki
+    title: Protagonist (Persona 5)
+  - type: wiki
+    title: Kasumi Yoshizawa
+  - type: wiki
+    title: Caroline and Justine
+  - type: wiki
+    title: Lavenza
+  # --- Story / bosses ---
+  - type: wiki
+    title: Suguru Kamoshida
+  - type: wiki
+    title: Ichiryusai Madarame
+  - type: wiki
+    title: Junya Kaneshiro
+  - type: wiki
+    title: Kunikazu Okumura
+  - type: wiki
+    title: Sae Niijima
+  - type: wiki
+    title: Masayoshi Shido
+  - type: wiki
+    title: Yaldabaoth
+  - type: wiki
+    title: Takuto Maruki
+  # --- Mechanics ---
+  - type: wiki
+    title: Baton Pass
+  - type: wiki
+    title: Treasure Demon
+  - type: wiki
+    title: Part-time Jobs
+  - type: wiki
+    title: New Game Plus
+  # --- Notable personas ---
+  - type: wiki
+    title: Yoshitsune
+  # --- Game overview ---
+  - type: wiki
+    title: Persona 5 Royal
+  # --- Fusion tool ---
+  - type: fusion
+    base_url: https://aqiu384.github.io/megaten-fusion-tool/p5r
+    max_pages: 200
+  # --- Guide sites ---
+  - type: index
+    url: https://www.ign.com/wikis/persona-5/Mementos_and_Requests
+    link_from: table
+    filter: shin-megami-tensei-persona-5
+  - type: index
+    url: https://www.rpgsite.net/feature/5479-persona-5-royal-confidant-guide-conversation-choices-answers-romance-options-gifts-skill-unlocks
+    link_from: body
+    filter: rpgsite.net
+  - type: static
+    url: https://www.rpgsite.net/feature/9598-persona-5-royal-maruki-confidant-choices-guide-the-councillor
+  - type: static
+    url: https://www.rpgsite.net/feature/9612-persona-5-royal-endings-guide-how-to-get-the-true-ending-interrogation-answers-and-ending-list
+  - type: static
+    url: https://www.rpgsite.net/feature/5481-persona-5-royal-jobs-guide-part-time-job-list-unlocks
+  - type: static
+    url: https://www.rpgsite.net/feature/13328-persona-5-royal-stats-guide-increase-knowledge-guts-proficiency-kindness-and-charm-fast
+  - type: static
+    url: https://www.rpgsite.net/feature/13327-persona-5-royal-demon-negotiation-answers-hold-up-guide
+  - type: static
+    url: https://www.rpgsite.net/feature/13388-persona-5-royal-electric-chair-item-list-database-for-itemization
+  - type: spa_tabs
+    url: https://quan.github.io/persona5-items/
+    tabs:
+      - SHOPS
+      - GIFTS
+      - ITEMIZATIONS
